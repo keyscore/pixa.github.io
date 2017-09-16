@@ -42,19 +42,19 @@ body {
   background-size: cover;
 }
 #case2 .album-art {
-	background:  linear-gradient(rgba(255,255,255,0.15),rgba(255,255,255,0)), url(http://upload.wikimedia.org/wikipedia/en/5/5c/Floyd_PULSE_Cover.jpg) center center no-repeat;
+	background:  linear-gradient(rgba(255,255,255,0.15),rgba(255,255,255,0)), url() center center no-repeat;
   background-size: 100% 100%;
 }
 #case3 .album-art {
-	background: linear-gradient(rgba(255,255,255,0.15),rgba(255,255,255,0)), url(http://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg) center center no-repeat;
+	background: linear-gradient(rgba(255,255,255,0.15),rgba(255,255,255,0)), url() center center no-repeat;
   background-size: 100% 100%;
 }
 #case4 .album-art {
-	background: linear-gradient(rgba(255,255,255,0.15),rgba(255,255,255,0)), url(http://upload.wikimedia.org/wikipedia/en/0/0d/Acdcironman.jpg) center center no-repeat;
+	background: linear-gradient(rgba(255,255,255,0.15),rgba(255,255,255,0)), url() center center no-repeat;
   background-size: 100% 100%;
 }
 #case5 .album-art {
-	background: linear-gradient(rgba(255,255,255,0.15),rgba(255,255,255,0)), url(http://upload.wikimedia.org/wikipedia/en/1/1a/Scorpions_-_Sting_in_the_Tail.jpg) center center no-repeat;
+	background: linear-gradient(rgba(255,255,255,0.15),rgba(255,255,255,0)), url() center center no-repeat;
   background-size: 100% 100%;
 }
 .sup {
